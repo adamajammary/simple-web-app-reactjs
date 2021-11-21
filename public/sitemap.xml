@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+  xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <url>
+    <loc>https://reactjs.aws.jammary.com/</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://reactjs.aws.jammary.com/about</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://reactjs.aws.jammary.com/api</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://reactjs.aws.jammary.com/tasks</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://reactjs.aws.jammary.com/tasks/create</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://reactjs.aws.jammary.com/tasks/delete</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://reactjs.aws.jammary.com/tasks/details</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://reactjs.aws.jammary.com/tasks/edit</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+  </url>
+</urlset>

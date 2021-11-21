@@ -1,0 +1,31 @@
+footer,
+main {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 70%;
+}
+
+.App-jumbotron {
+  background-color: #DDD;
+  color: black;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 30px;
+}
+
+.App-jumbotron p {
+  font-size: 120%;
+}
+
+@media (max-width: 767px) {
+  footer,
+  main {
+    width: 100%;
+  }
+
+  .App-jumbotron {
+    border-radius: 0;
+    padding: 10px;
+  }
+}

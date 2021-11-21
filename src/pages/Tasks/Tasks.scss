@@ -1,0 +1,59 @@
+@import "src/App.scss";
+
+button {
+  width: 70px;
+  height: 35px;
+  border: 1px solid #BBB;
+  border-radius: 5px;
+}
+
+dt {
+  float: left;
+  font-weight: bold;
+  padding-right: 20px;
+  text-align: right;
+  width: calc(50% - 10px);
+}
+
+dd:after {
+  content: ' ';
+  white-space: pre;
+}
+
+input, select {
+  color: black;
+  margin-top: 5px;
+}
+
+input {
+  width: 90%;
+  height: 20px;
+  padding: 5px;
+  border: 1px solid #BBB;
+  border-radius: 5px;
+}
+
+input:focus {
+  border: 2px solid #66AFE9;
+}
+
+label {
+  font-size: 100%;
+  font-weight: bold;
+}
+
+table {
+  width: 100%;
+}
+
+td, th {
+  border-bottom: 2px solid #CCC;
+}
+
+dd, th {
+  text-align: left;
+}
+
+.Tasks-form-group {
+  margin-bottom: 15px;
+}
