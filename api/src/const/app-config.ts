@@ -8,7 +8,7 @@ export const AppConfig = {
   },
   Server: {
     CorsOptions: {
-      origin: (production ? 'https://reactjs.aws.jammary.com' : 'http://localhost:3000')
+      origin: (production ? 'https://reactjs.gcp.jammary.com' : 'http://localhost:3000')
     },
     Port: 4000
   }

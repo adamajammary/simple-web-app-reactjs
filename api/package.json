@@ -3,7 +3,7 @@
   "description": "Simple Web App - Node.js REST API server",
   "version": "1.0.0",
   "author": "Adam A. Jammary (Jammary Studio)",
-  "homepage": "https://reactjs.aws.jammary.com/",
+  "homepage": "https://reactjs.gcp.jammary.com/",
   "main": "index.ts",
   "private": true,
   "scripts": {

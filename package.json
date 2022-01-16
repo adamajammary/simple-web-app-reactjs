@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Simple Web App (React 17, Redux, SCSS, TypeScript, Node.js, Express and MongoDB)",
   "author": "Adam A. Jammary (Jammary Studio)",
-  "homepage": "https://reactjs.aws.jammary.com/",
+  "homepage": "https://reactjs.gcp.jammary.com/",
   "private": true,
   "browserslist": {
     "production": [
